@@ -7,4 +7,5 @@ Faire lire la chose aux élèves
 Faire remarquer qu'on peut utiliser pour différents types d'objectifs et de ressources
 
 Faire lire la chose aux élèves
+
 Insister sur les fonctionnalités de GitHub
